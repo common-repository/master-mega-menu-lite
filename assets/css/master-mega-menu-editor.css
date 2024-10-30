@@ -1,0 +1,19 @@
+.ma-el-icon{
+    color: #e0e1e3;
+}
+ 
+#elementor-panel #elementor-panel-header-title span.ma-el-badge:after, #elementor-panel .elementor-control-title span.ma-el-badge:after, #elementor-panel .elementor-section-title span.ma-el-badge:after {
+    content: 'MA';
+    background-color: #fff;
+    color: #d30c5c;
+    font-size: 10px;
+    font-weight: 700;
+    border-radius: 30px;
+    padding: 2px 3px;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+#elementor-panel .elementor-control-title span.ma-el-badge:after, #elementor-panel .elementor-section-title span.ma-el-badge:after {
+    background-color: #e0e6ec;
+    color: #50565d;
+}
